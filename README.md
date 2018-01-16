@@ -1,4 +1,4 @@
-Vainosamples
+JavaZurio
 ============
 
-Repository of my code examples
+Repository of my Java code
