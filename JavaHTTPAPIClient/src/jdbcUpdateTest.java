@@ -8,8 +8,8 @@ public class jdbcUpdateTest {
 		Statement stmt = null;
 		ResultSet res = null;
 		
-		String dbUrl = "jdbc:mysql://localhost:3306/demo";
-		String user = "developer";		
+		String dbUrl = "jdbc:mysql://localhost:8889/demo?useSSL=false";
+		String user = "developer";
 		String pass = "developer";
 
 		try {
